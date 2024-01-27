@@ -1,15 +1,19 @@
+package br.com.alura.screenmatch.principal;
+
+import br.com.alura.screenmatch.modelos.Carro;
+
 import java.util.Calendar;
 
 public class Principal_carro {
     public static void main(String[] args){
-        /*Crie uma classe Carro com atributos modelo, ano, cor
+        /*Crie uma classe br.com.alura.screenmatch.modelos.Carro com atributos modelo, ano, cor
          e métodos para exibir a ficha técnica e calcular a idade do carro.*/
         Carro novoCarro = new Carro();
 
         //Exibe a ficha técnica
-        novoCarro.modelo = "Yaris";
-        novoCarro.ano = 2020;
-        novoCarro.cor = "Prata";
+        novoCarro.setModelo("Yaris");
+        novoCarro.setAno(2020);
+        novoCarro.setCor("Prata");
 
         novoCarro.exibeFichaTecnica();
 
