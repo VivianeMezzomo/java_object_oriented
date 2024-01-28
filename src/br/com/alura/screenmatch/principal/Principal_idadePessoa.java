@@ -1,6 +1,6 @@
 package br.com.alura.screenmatch.principal;
 
-import br.com.alura.screenmatch.modelos.IdadePessoa;
+import br.com.alura.screenmatch.models.IdadePessoa;
 
 public class Principal_idadePessoa {
 

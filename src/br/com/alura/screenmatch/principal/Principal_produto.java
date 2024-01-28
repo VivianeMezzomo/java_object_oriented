@@ -1,6 +1,6 @@
 package br.com.alura.screenmatch.principal;
 
-import br.com.alura.screenmatch.modelos.Produto;
+import br.com.alura.screenmatch.models.Produto;
 
 public class Principal_produto {
     /*Desenvolva uma classe Produto com os atributos privados nome e preco. Utilize métodos getters e setters para acessar e modificar esses atributos.

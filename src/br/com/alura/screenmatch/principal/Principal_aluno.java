@@ -1,6 +1,6 @@
 package br.com.alura.screenmatch.principal;
 
-import br.com.alura.screenmatch.modelos.Aluno;
+import br.com.alura.screenmatch.models.Aluno;
 
 public class Principal_aluno {
     public static void main(String[] args) {

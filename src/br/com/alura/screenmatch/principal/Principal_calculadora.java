@@ -1,6 +1,6 @@
 package br.com.alura.screenmatch.principal;
 
-import br.com.alura.screenmatch.modelos.Calculadora;
+import br.com.alura.screenmatch.models.Calculadora;
 
 public class Principal_calculadora {
     public static void main(String[] args) {

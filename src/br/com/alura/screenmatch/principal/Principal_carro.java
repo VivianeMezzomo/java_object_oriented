@@ -1,6 +1,6 @@
 package br.com.alura.screenmatch.principal;
 
-import br.com.alura.screenmatch.modelos.Carro;
+import br.com.alura.screenmatch.models.Carro;
 
 import java.util.Calendar;
 

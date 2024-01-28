@@ -1,6 +1,6 @@
 package br.com.alura.screenmatch.principal;
 
-import br.com.alura.screenmatch.modelos.Musica;
+import br.com.alura.screenmatch.models.Musica;
 
 public class Principal_musica {
     public static void main(String[] args) {

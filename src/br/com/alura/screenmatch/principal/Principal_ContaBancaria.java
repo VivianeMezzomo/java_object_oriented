@@ -1,6 +1,6 @@
 package br.com.alura.screenmatch.principal;
 
-import br.com.alura.screenmatch.modelos.ContaBancaria;
+import br.com.alura.screenmatch.models.ContaBancaria;
 
 import java.util.Scanner;
 
