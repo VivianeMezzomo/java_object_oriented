@@ -39,5 +39,14 @@ public class main {
         calculator.include(anotherSubclassMovie);
         calculator.include(lost);
         System.out.println(calculator.getTotalTime());
+
+        RecomendationFilter filter = new RecomendationFilter();
+        filter.filter(subclassMovie);
+
+        Subclass_episodes episode = new Subclass_episodes();
+        episode.setNumber(1);
+        episode.setSerie(lost);
+        episode.setTotalViews(300);
+        filter.filter(episode);
     }
 }
